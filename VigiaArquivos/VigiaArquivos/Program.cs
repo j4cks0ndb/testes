@@ -4,7 +4,7 @@ using System.IO;
 namespace VigiaArquivos
 {
     /// <summary>
-    /// 
+    /// Monitoramento de Arquivos em Pastas Windows
     /// </summary>
     class Program
     {
